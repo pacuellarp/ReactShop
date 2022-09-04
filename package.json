@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "\"react-shop\"",
   "main": " src/index.js",
-  "homepage": "https://pacuellarp.github.io/",
+  "homepage": "https://pacuellarp.github.io/ReactShop",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack serve --open",
